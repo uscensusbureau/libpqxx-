@@ -256,3 +256,4 @@ location as well, e.g. /usr/local/pqxx/lib/libpqxx.a.  This will ensure that the
 linker will use that exact version of the library rather than one found
 elsewhere on the system, and eliminate worries about the exact right version of
 the library being installed with your program..
+
